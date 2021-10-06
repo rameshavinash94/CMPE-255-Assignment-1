@@ -19,3 +19,21 @@ Try to combine number of techniques in leaderboard members of kaggle for data cl
 **Dataset:** : _https://www.kaggle.com/jessemostipak/hotel-booking-demand_
 
 **Colab File:** _Hotel_Booking.ipynb_
+
+**STEPS FOLLOWED:**
+
+### 1) DOWNLOADING DATASET, INSTALLING & LOADING MODULES FOR ANALYSIS
+
+### 2) UNDERSTANDING DATA
+
+### 3) DATA WRANGLING FOR EDA
+
+### 4) EDA
+
+### 5) FINDING DATA CORELATION & DATA PREPROCESSING FOR ML MODEL
+
+### 6) ML CLASSIFICATION ALGORITHMS ( KNN, LOGISTIC REGRESSION, SVM )
+
+### 7) ACCURACY COMPARISON OF ALL ML MODELS
+
+Finally, using Google OpenRefine Tool for Data Cleaning operations &  data pre-processiong for the same dataset
