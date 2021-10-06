@@ -30,7 +30,7 @@ Try to combine number of techniques in leaderboard members of kaggle for data cl
 
 #### 4) EDA
 
-#### 5) FINDING DATA CORELATION & DATA PREPROCESSING FOR ML MODEL
+#### 5) FINDING DATA CORRELATION & DATA PREPROCESSING FOR ML MODEL
 
 #### 6) ML CLASSIFICATION ALGORITHMS ( KNN, LOGISTIC REGRESSION, SVM )
 
