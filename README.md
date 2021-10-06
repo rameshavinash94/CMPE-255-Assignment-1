@@ -17,3 +17,5 @@ Try to combine number of techniques in leaderboard members of kaggle for data cl
  https://analyticsindiamag.com/10-datasets-for-data-cleaning-practice-for-beginners
  
 **Dataset:** : _https://www.kaggle.com/jessemostipak/hotel-booking-demand_
+
+**Colab File:** _Hotel_Booking.ipynb_
