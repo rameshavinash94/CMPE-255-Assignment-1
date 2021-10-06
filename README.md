@@ -36,4 +36,6 @@ Try to combine number of techniques in leaderboard members of kaggle for data cl
 
 #### 7) ACCURACY COMPARISON OF ALL ML MODELS
 
-Finally, using Google OpenRefine Tool for Data Cleaning operations &  data pre-processiong for the same dataset
+Finally, using Google OpenRefine Tool for Data Cleaning operations &  data pre-processiong for the same dataset.
+
+Link: https://drive.google.com/file/d/12qINsg-qAsizsBLvOdEj-XeTYqlpUUyN/view?usp=sharing
